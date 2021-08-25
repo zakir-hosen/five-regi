@@ -1,0 +1,42 @@
+.login-area a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.login-area i {
+    color: green;;
+}
+.required {
+    color: red;
+}
+.team-box {
+    margin: 15px;
+    background-color: #C5C3C3
+}
+.team-box .team-text {
+    padding: 40px;
+    border-radius: 3px;
+    
+}
+.down {
+    margin-left: 120px;
+    margin-bottom: 30px;
+    
+}
+.fotr {
+    border: 1px solid black;
+}
+.footer-check {
+    padding: 10px;
+    border-radius: 2px;
+    background-color: lightgrey;
+    align-items: center;
+    
+}
+.footer-end {
+    padding: 10px;
+    border-radius: 2px;
+    background-color: #C5C3C3;
+    
+}
+
